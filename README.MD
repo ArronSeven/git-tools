@@ -34,3 +34,4 @@ Translations:
    ```cmd
     git_tools -t b -dir D:\tmp -branch dev-1.0.0 
    ```
+#### [Download](https://github.com/ArronSeven/git-tools/releases)
