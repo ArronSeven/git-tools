@@ -4,7 +4,7 @@ This is Git tools that helping us develop more conveniently.
 
 Translations:
 
-* [中文文档](README_zh.md)
+* [中文文档](README_zh.MD)
 
 ## Overview
 
